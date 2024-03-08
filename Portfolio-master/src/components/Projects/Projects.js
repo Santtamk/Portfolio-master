@@ -2,9 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-// import leaf from "../../Assets/Projects/leaf.png";
-// import emotion from "../../Assets/Projects/emotion.png";
-// import editor from "../../Assets/Projects/codeEditor.png";
 import qkart from "../../Assets/Projects/qkart.png";
 import qtrip from "../../Assets/Projects/qtrip.png";
 import XBoard from "../../Assets/Projects/XBoard.png";
@@ -101,7 +98,7 @@ function Projects() {
                 Used Accordions and Image Carousel to improve UI
                 </li>
                 <li>
-                Fetched news content from flipboard's RSS feed using REST API
+                  Fetched news content from flipboard's RSS feed using REST API
                 </li>
               </ul>
             </div>}
