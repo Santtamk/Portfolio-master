@@ -65,7 +65,7 @@ function NavBar() {
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Projects
-              </Nav.Link>
+              </Nav.Link> 
             </Nav.Item>
 
             <Nav.Item>
